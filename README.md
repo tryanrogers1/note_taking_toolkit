@@ -7,4 +7,4 @@ This directory includes 3 different scripts for creating and organizing personal
   
 I also recommend some bash aliases to assist executing these scripts. Full descriptions of the scripts and aliases are found here on my website:  
 
-https://www.tryanrogers.com/projects/scripts-code/notetaking-tool-kit
+https://sites.google.com/view/tryanrogers/projects/scripts-code/note-taking-toolkit
