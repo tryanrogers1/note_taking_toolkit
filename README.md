@@ -1,7 +1,7 @@
 # note_taking_toolkit
 
 This directory includes 3 different scripts: 
-1. asdf
+1. newnote.sh
 2. starnote.sh: 
 3. compile_notebook.sh:
 
